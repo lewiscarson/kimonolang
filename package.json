@@ -10,5 +10,8 @@
   "bugs": {
     "url": "https://github.com/lewiscarson/kimonolang/issues"
   },
-  "homepage": "https://github.com/lewiscarson/kimonolang#readme"
+  "homepage": "https://github.com/lewiscarson/kimonolang#readme",
+  "dependencies": {
+    "yarn": "^1.22.4"
+  }
 }
