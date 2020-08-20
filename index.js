@@ -1,1 +1,1 @@
-console.log("init")
+require("./src")("example/hello").run()
